@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Eksperimen
+catboost_info/
+logs.log
