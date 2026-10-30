@@ -1,2 +1,2 @@
-kaggle link about this project:
+kaggle link for RAW Data:
 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data
